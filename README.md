@@ -1,2 +1,3 @@
-# wcc-webstie
+# wcc-website
+
 Public website for the Windsor Code Camp
